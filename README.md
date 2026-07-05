@@ -173,9 +173,7 @@ Run `python download_yolo_model.py` to auto-download the YOLO weights.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
