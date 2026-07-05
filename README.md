@@ -23,7 +23,6 @@ A full-stack AI-powered platform for smart agriculture — helping farmers monit
 | Tool | Purpose |
 |------|---------|
 | **FastAPI** | REST API framework |
-| **SQLAlchemy** | ORM & database management |
 | **YOLOv8** | Pest & disease image detection |
 | **scikit-learn** | Crop prediction ML model |
 | **Python 3.10+** | Core language |
